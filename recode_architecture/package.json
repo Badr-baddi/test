@@ -1,0 +1,12 @@
+{
+  "name": "recode_architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "start" : "node hello.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
